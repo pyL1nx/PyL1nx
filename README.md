@@ -26,7 +26,7 @@
 
 ## 🛠️ **Tech Stack**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,flutter,firebase,supabase,linux" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,firebase,supabase,linux" />
 </p>
 
 ---
@@ -64,10 +64,6 @@
   </a>
 </p>
 
----
-
-## 🐍 Contribution Snake Animation
-![Snake animation](https://github.com/pyl1nx/pyl1nx/blob/output/github-contribution-grid-snake.svg)
 ---
 
 ## 💡 **Random Dev Quote**
