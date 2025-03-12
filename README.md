@@ -1,6 +1,6 @@
 <!-- Banner Section -->
 <p align="center">
-  <img src="https://your-banner-link-here" alt="Banner" width="100%"/>
+  <img src="https://i.postimg.cc/DmXv7bFg/IMG-20250309-192635-240.jpg" alt="Banner" width="100%"/>
 </p>
 
 <!-- Animated Intro -->
@@ -56,13 +56,10 @@
 
 ## 🌐 **Connect with Me**
 <p align="center">
-  <a href="https://linkedin.com/in/your-link">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/ambrose-dev">
+  <a href="https://github.com/pyl1nx">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:ambrose.dev@yahoo.com">
+  <a href="mailto:ambrose.linux+coder.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -71,7 +68,7 @@
 
 ## 🐍 **Contribution Snake Animation**
 <p align="center">
-  <img src="https://github.com/ambrose-dev/ambrose-dev/raw/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/pyl1nx/pyl1nx/raw/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -85,7 +82,7 @@
 
 ## 🎮 **Random Game Progress Bar**
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ambrose-dev&theme=onestar&margin-w=15&margin-h=15&no-frame=true&no-bg=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=pyL1nx&theme=onestar&margin-w=15&margin-h=15&no-frame=true&no-bg=true" />
 </p>
 
 ---
