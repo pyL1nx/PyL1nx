@@ -67,9 +67,7 @@
 ---
 
 ## 🐍 Contribution Snake Animation
-<p align="center">
-  <img src="https://github.com/pyl1nx/pyl1nx/raw/output/github-contribution-grid-snake.svg" />
-</p>
+![Snake animation](https://github.com/pyl1nx/pyl1nx/blob/output/github-contribution-grid-snake.svg)
 ---
 
 ## 💡 **Random Dev Quote**
