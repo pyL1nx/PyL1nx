@@ -1,27 +1,96 @@
-
+<!-- Banner Section -->
 <p align="center">
-  <img src="https://i.postimg.cc/DmXv7bFg/IMG-20250309-192635-240.jpg" width="100%" />
+  <img src="https://your-banner-link-here" alt="Banner" width="100%"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm 𝗔ᴍʙʀᴏsᴇ</h1>
-<h3 align="center">AI Developer | Web Developer | Game Developer</h3>
+<!-- Animated Intro -->
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
+  Hey, I'm Ambrose!
+</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&width=435&height=70&lines=AI+Developer+%7C+Web+Developer+%7C+Game+Developer;Welcome+to+My+Coding+Journey!" />
+</p>
+
+---
+
+## 🚀 **About Me**
 - 🔭 I’m currently working on an **AI Tutor Project**  
-- 🌱 I’m learning **Python, AI, and Web Development**  
-- 💬 Ask me about **AI, Coding, and Web Development**  
-- 📫 Reach me at **ambrose.linux+coder.com**
+- 🌱 Learning **Python, AI, and Web Development**  
+- 💬 Ask me about **AI, Web Dev, and Coding**  
+- 🌍 Open to collaborations on **AI and Web Projects**  
+- ⚡ Fun fact: I can probably outcode you 😎  
 
-### 🛠️ Tech Stack  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+---
 
-### 📊 GitHub Stats  
-![Ambrose's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ambrose-dev&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ambrose-dev&layout=compact&theme=tokyonight)
-
+## 🛠️ **Tech Stack**
 <p align="center">
-  <img src="https://github.com/your-username/your-username/raw/output/github-contribution-grid-snake.svg" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,flutter,firebase,supabase,linux" />
 </p>
 
+---
+
+## 📈 **GitHub Stats**  
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ambrose-dev&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambrose-dev&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+## 🎯 **Currently Working On**
+- 👨‍💻 AI Tutor with **Firebase + Supabase**  
+- 🌐 Creating a futuristic **Portfolio Website**  
+- 🤖 Building an AI-based **Valentine Themed Chatbot**  
+- 🔥 Developing a **Telegram Bot** for automated session handling  
+
+---
+
+## 🏆 **Achievements**
+- 🥇 Built 6+ AI & Web Projects  
+- 🏅 80+ Commits in the last month  
+- 🌍 Contributed to open-source projects  
+
+---
+
+## 🌐 **Connect with Me**
+<p align="center">
+  <a href="https://linkedin.com/in/your-link">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/ambrose-dev">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:ambrose.dev@yahoo.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🐍 **Contribution Snake Animation**
+<p align="center">
+  <img src="https://github.com/ambrose-dev/ambrose-dev/raw/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 💡 **Random Dev Quote**
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+## 🎮 **Random Game Progress Bar**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ambrose-dev&theme=onestar&margin-w=15&margin-h=15&no-frame=true&no-bg=true" />
+</p>
+
+---
+
+## 🎶 **Now Playing** *(optional)*  
+> Add a dynamic Spotify playing widget:  
+```md
+![Spotify](https://spotify-readme.ji3j4un.vercel.app/api/spotify)
