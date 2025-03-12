@@ -66,9 +66,10 @@
 
 ---
 
-## 🐍 **Contribution Snake Animation**
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=pyl1nx&theme=onestar&no-frame=true&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+## 🐍 Contribution Snake Animation
+<p align="center">
+  <img src="https://github.com/pyl1nx/pyl1nx/raw/output/github-contribution-grid-snake.svg" />
+</p>
 ---
 
 ## 💡 **Random Dev Quote**
