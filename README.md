@@ -5,8 +5,9 @@
 
 <h1 align="center">Hey, I'm Soumalya (Ambrose) 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=800&color=F7F7F7&center=true&vCenter=true&width=520&lines=Python+Developer+%7C+Unity+Game+Dev;Building+tools%2C+bots+and+playable+experiences" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=800&color=F7F7F7&center=true&vCenter=true&width=750&lines=Python+Developer+%7C+Unity+Game+Dev;Building+tools%2C+bots+and+playable+experiences" />
 </p>
+
 
 ---
 
