@@ -34,10 +34,6 @@
 - Telegram/Discord Bots — Commands, webhooks, and basic moderation or utility features.  
 - Unity Mini-Games — Prototypes focusing on movement, camera, UI, and simple AI.  
 
-Tip: add repo links like:
-- Repo: [username/telegram-bot](#) • Python bot with command handlers and persistence.  
-- Repo: [username/unity-runner](#) • Endless runner prototype with object pooling and basic UI.  
-
 ---
 
 ## 🎯 What I’m Doing Now
@@ -59,7 +55,7 @@ Tip: add repo links like:
   <a href="https://github.com/pyl1nx">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:ambrose.linux+coder.com">
+  <a href="mailto:ambrose.linux+coder@gmail.com">
     <img src="https://img.shields.io/badge/Email-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
