@@ -1,37 +1,52 @@
-<!-- Banner Section -->
+<!-- Banner -->
 <p align="center">
   <img src="https://i.postimg.cc/DmXv7bFg/IMG-20250309-192635-240.jpg" alt="Banner" width="100%"/>
 </p>
 
-<!-- Animated Intro -->
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
-  Hey, I'm Ambrose!
-</h1>
-
+<h1 align="center">Hey, I'm Ambrose 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&width=435&height=70&lines=AI+%7C+Web+Developer;Welcome+to+My+Coding+Journey!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=800&color=F7F7F7&center=true&vCenter=true&width=520&lines=Python+Developer+%7C+Unity+Game+Dev;Building+tools%2C+bots%2C+and+playable+experiences" />
 </p>
 
 ---
 
-## 🚀 **About Me**
-- 🔭 I’m currently working on an **AI Tutor Project**  
-- 🌱 Learning **Python, AI, and Web Development**  
-- 💬 Ask me about **AI, Web Dev, and Coding**  
-- 🌍 Open to collaborations on **AI and Web Projects**  
-- ⚡ Fun fact: I can probably outcode you 😎  
+## 🧑‍💻 About Me
+- Python developer at an intermediate level, focused on scripting, automation, and bot development.  
+- Unity enthusiast building small games, prototypes, and gameplay systems in C#.  
+- Currently improving data structures, problem-solving, and clean code practices.  
 
 ---
 
-## 🛠️ **Tech Stack**
+## 🛠️ Tech Stack
+- Languages: Python, C#  
+- Game Dev: Unity, ScriptableObjects, Cinemachine (basics)  
+- Tools: Git, GitHub, VS Code, Unity Editor  
+- Interests: Automation, Telegram/Discord bots, gameplay programming, tooling for game dev  
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,firebase,supabase,linux" />
+  <img src="https://skillicons.dev/icons?i=python,cs,unity,git,github,vscode,linux" />
 </p>
 
 ---
 
-## 📈 **GitHub Stats**  
+## 📌 Featured Projects
+- Python Automation Scripts — CLI utilities for file ops, data parsing, and small workflows.  
+- Telegram/Discord Bots — Commands, webhooks, and basic moderation or utility features.  
+- Unity Mini-Games — Prototypes focusing on movement, camera, UI, and simple AI.  
+
+Tip: add repo links like:
+- Repo: [username/telegram-bot](#) • Python bot with command handlers and persistence.  
+- Repo: [username/unity-runner](#) • Endless runner prototype with object pooling and basic UI.  
+
+---
+
+## 🎯 What I’m Doing Now
+- Sharpening Python OOP, error handling, and packaging for reusable tools.  
+- Building Unity prototypes to practice input, state machines, and editor tooling.  
+
+---
+
+## 📈 GitHub Stats
 <div align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=ambrose-dev&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambrose-dev&layout=compact&theme=tokyonight&hide_border=true" />
@@ -39,48 +54,19 @@
 
 ---
 
-## 🎯 **Currently Working On**
-- 👨‍💻 AI Tutor with **Firebase + Supabase**  
-- 🌐 Creating a futuristic **Portfolio Website**  
-- 🤖 Building an AI-based **Valentine Themed Chatbot**  
-- 🔥 Developing a **Telegram Bot** for automated session handling  
-
----
-
-## 🏆 **Achievements**
-- 🥇 Built 6+ AI & Web Projects  
-- 🏅 80+ Commits in the last month  
-- 🌍 Contributed to open-source projects  
-
----
-
-## 🌐 **Connect with Me**
+## 📫 Contact
 <p align="center">
   <a href="https://github.com/pyl1nx">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:ambrose.linux+coder.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 💡 **Random Dev Quote**
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
+## 🧭 Quick Goals
+- Contribute small Python utilities to open source.  
+- Ship a polished Unity mini-game with menus, save/load, and basic polish.  
 
----
-
-## 🎮 **Random Game Progress Bar**
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pyL1nx&theme=onestar&margin-w=15&margin-h=15&no-frame=true&no-bg=true" />
-</p>
-
----
-
-## 🎶 **Now Playing** *(optional)*  
-> Add a dynamic Spotify playing widget:  
-```md
-![Spotify](https://spotify-readme.ji3j4un.vercel.app/api/spotify)
