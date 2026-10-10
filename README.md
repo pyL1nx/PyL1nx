@@ -1,6 +1,7 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.postimg.cc/DmXv7bFg/IMG-20250309-192635-240.jpg" alt="Banner" width="100%"/>
+  <img src="https://i.postimg.cc/DmXv7bFg/IMG-20250309-192635-240.jpg" <img width="735" height="701" alt="76e5e0f3-fc30-4c73-9dea-b1e6963f3a1c" src="https://github.com/user-attachments/assets/5a43e35f-5da1-41cb-9b5a-88f043145488" />
+alt="Banner" width="100%"/>
 </p>
 
 <h1 align="center">Hey, I'm Soumalya (Ambrose) 👋</h1>
