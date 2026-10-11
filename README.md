@@ -3,7 +3,7 @@
   <img width="735" height="701" alt="76e5e0f3-fc30-4c73-9dea-b1e6963f3a1c" src="https://github.com/user-attachments/assets/1d9a16e7-2625-42a4-9d93-f36f97da03fe" />
 </p>
 
-<h1 align="center">Hey, I'm Soumalya (Ambrose) 👋</h1>
+<h1 align="center">Hey, I'm ambrose 👋</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=800&color=F7F7F7&center=true&vCenter=true&width=750&lines=Unity+Game+Dev+%7C+C%2B%2B+Engine+Programmer;Building+stylized+worlds+and+custom+engines;Love+coding+and+systems+architecture" />
 </p>
